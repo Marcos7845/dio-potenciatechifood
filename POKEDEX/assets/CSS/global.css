@@ -4,3 +4,14 @@
 font-family: 'Roboto';
 color: rgb(0, 0, 0);
 }
+
+.content{
+    padding: 1rem;
+}
+.content h1{
+    margin: 0;
+}
+
+ol{
+    list-style: none;
+}
